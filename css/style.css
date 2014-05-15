@@ -34,6 +34,7 @@
 		line-height: 1.5em;
 	}
 
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
 			color: inherit;
@@ -1155,4 +1156,8 @@
 		#main > section.six
 		{
 			background-color: #cacece;
+		}
+
+		sm {
+			font-size: 12px;
 		}
