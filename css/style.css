@@ -1107,6 +1107,7 @@
 /* Main                                                                          */
 /*********************************************************************************/
 
+
 	#main
 	{
 		margin-left: 375px;
@@ -1161,3 +1162,75 @@
 		sm {
 			font-size: 12px;
 		}
+
+/*********************************************************************************/
+/* Education                                                                     */
+/*********************************************************************************/
+	.desc {
+	padding-top: 50px;
+	}
+
+	.desc p {
+		color: #2f2f2f;
+	}
+
+	.desc t {
+		color: #34495e;
+		font-weight: 700;
+	}
+
+	.desc imp {
+		padding: 6px;
+		color: white;
+		background: #34495e;
+	}
+
+	.desc more {
+		color: #95a5a6;
+	}
+	.row2 {
+	  margin-right: -15px;
+	  margin-left: -15px;
+	}
+
+	.row2:before,
+	.row2:after {
+	  display: table;
+	  content: " ";
+	}
+
+	.row2:after {
+	  clear: both;
+	}
+
+	.row2:before,
+	.row2:after {
+	  display: table;
+	  content: " ";
+	}
+
+	.row2:after {
+	  clear: both;
+	}
+
+	.col-lg-2 {
+		float: left;
+		width: 16.666666666666664%;
+		position: relative;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+
+	.col-lg-offset-1 {
+    	margin-left: 8.333333333333332%;
+    }
+
+	.col-lg-6 {
+		float: left;
+		width: 50%;
+		position: relative;
+  	  min-height: 1px;
+  	  padding-right: 15px;
+  	  padding-left: 15px;
+	}
