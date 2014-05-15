@@ -1160,6 +1160,7 @@
 		}
 
 		sm {
+			font-family: 'Source Sans Pro', sans-serif;
 			font-size: 12px;
 		}
 
@@ -1170,7 +1171,7 @@
 	padding-top: 50px;
 	}
 
-	.desc p {
+	p {
 		color: #2f2f2f;
 	}
 
@@ -1179,7 +1180,7 @@
 		font-weight: 700;
 	}
 
-	.desc imp {
+	imp {
 		padding: 6px;
 		color: white;
 		background: #34495e;
@@ -1233,4 +1234,46 @@
   	  min-height: 1px;
   	  padding-right: 15px;
   	  padding-left: 15px;
+	}
+
+	.col-lg-3 {
+		float: left;
+		width: 25%;
+		position: relative;
+	    min-height: 1px;
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+
+	.col-lg-offset-3 {
+		margin-left: 25%;
+	}
+
+	#education p {
+	    line-height: 28px;
+	    margin-bottom: 25px;
+		text-align: left;
+		font-family: 'Source Sans Pro', sans-serif;
+	    font-weight: 300;
+	    font-size: 16px;
+	    color: #555;
+	}
+
+	#education h5 {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 22px;
+	}
+
+	#education t {
+		font-size: 18px;
+	}
+
+	#projects p {
+		text-align: left;
+		font-size: 18px;
+	}
+
+	#blog p {
+		text-align: left;
+		font-size: 18px;
 	}
