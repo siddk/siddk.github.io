@@ -917,7 +917,9 @@
 	padding-top:85px;
 	text-align:center;
 	min-height: 300px;
-    background-color: #0C85AA;
+    /*background-color: #0C85AA;*/
+	/*background-color: #4c2d66;*/
+	background-color: #251d8e;
 	}
 
 	#headerwrap h1 {
