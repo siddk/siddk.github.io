@@ -1218,7 +1218,8 @@
 
 	.col-lg-2 {
 		float: left;
-		width: 16.666666666666664%;
+		/*width: 16.666666666666664%;*/
+		width: 24%;
 		position: relative;
 		min-height: 1px;
 		padding-right: 15px;
@@ -1226,7 +1227,8 @@
 	}
 
 	.col-lg-offset-1 {
-    	margin-left: 8.333333333333332%;
+		margin-left: 1%;
+    	/*margin-left: 8.333333333333332%;*/
     }
 
 	.col-lg-6 {
