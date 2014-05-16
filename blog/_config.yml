@@ -3,17 +3,17 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Compiled Words
+subtitle: 
 description:
-author: John Doe
-email:
+author: Sidd Karamcheti
+email: sidd.karamcheti@gmail.com
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://siddk.github.io/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
