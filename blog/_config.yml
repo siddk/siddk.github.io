@@ -101,4 +101,6 @@ stylus:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repository: https://github.com/Siddk/Siddk.github.io.git
+  branch: master
