@@ -16,26 +16,26 @@
 title: Siddharth Karamcheti
 email: sidd.karamcheti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Resident at Facebook AI Research. Incoming PhD Student in Computer Science at Stanford. Interested in grounded language
+  understanding, building agents that can collaborate with humans and act safely in different environments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: siddkaramcheti
 github_username:  siddk
+author: Siddharth Karamcheti
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-whiteglass
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
-# Travis CI
-plugins_dir: ./_plugins
-jekyll_get:
-  - data: github
-    json: 'https://api.github.com/users/siddk/repos'
-    cache: false
+## Travis CI
+#plugins_dir: ./_plugins
+#jekyll_get:
+#  - data: github
+#    json: 'https://api.github.com/users/siddk/repos'
+#    cache: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

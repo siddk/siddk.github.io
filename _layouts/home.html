@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="home">
+    {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+
+    {{ content }}
+</div>
