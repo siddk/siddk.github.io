@@ -31,11 +31,11 @@ plugins:
   - jekyll-sitemap
 
 ## Travis CI
-#plugins_dir: ./_plugins
-#jekyll_get:
-#  - data: github
-#    json: 'https://api.github.com/users/siddk/repos'
-#    cache: false
+plugins_dir: ./_plugins
+jekyll_get:
+  - data: github
+    json: 'https://api.github.com/users/siddk/repos'
+    cache: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
