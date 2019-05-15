@@ -24,6 +24,9 @@ twitter_username: siddkaramcheti
 github_username:  siddk
 author: Siddharth Karamcheti
 
+# Google Analytics
+google_analytics: UA-65310310-1
+
 # Build settings
 markdown: kramdown
 theme: jekyll-whiteglass
