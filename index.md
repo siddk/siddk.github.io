@@ -7,3 +7,7 @@ layout: home
 ---
 
 {% include_relative content/news.md %}
+
+--- 
+
+{% include_relative content/publications.md %}
