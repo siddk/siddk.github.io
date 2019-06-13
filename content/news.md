@@ -1,6 +1,7 @@
 ## News
+- **[May 2019]:** I am incredibly honored to have received the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
 - **[Apr 2019]:** Our workshop paper ["Improving Grey-Box Fuzzing by Modeling Program Control Flow"](https://arxiv.org/abs/1811.08973) was 
-accepted at [ML4SE 2019](https://ml4se.github.io/). See you in Montreal! 
+accepted at [ML4SE 2019](https://ml4se.github.io/). Check out the [slides from the talk](/assets/talks/ml4se19.pdf). 
 - **[Feb 2019]:** Our journal paper ["Grounding Natural Language Instructions to Semantic Goal Representations for Abstraction and Generalization"](https://doi.org/10.1007/s10514-018-9792-8) was 
 published in *Autonomous Robots*. Here is a [preprint](/assets/papers/auro19.pdf).
 - **[Aug 2018]:** I started my residency at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in 
