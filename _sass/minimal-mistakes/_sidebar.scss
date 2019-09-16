@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     float: left;
     margin-left: 50px;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    width: calc(#{$right-sidebar-width} - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -34,14 +34,15 @@
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
       */
-      height: calc(100vh - #{$nav-height} - 2em);
+      height: 100vh;
+      //height: calc(100vh - #{$nav-height} - 2em);
     }
   }
 
-  @include breakpoint($x-large) {
-    margin-left: 50px;
-    width: calc(#{$right-sidebar-width} - 1em);
-  }
+  //@include breakpoint($x-large) {
+  //  margin-left: 50px;
+  //  width: calc(#{$right-sidebar-width} - 1em);
+  //}
 
   > * {
     margin-top: 1em;

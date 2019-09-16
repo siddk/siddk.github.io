@@ -1,4 +1,6 @@
 ## News
+- **[September 2019]:** Two papers at EMNLP 2019 - [Finding Generalizable Evidence by Learning to Convince Q&A Models](https://arxiv.org/abs/1909.05863) and [Learning to Speak and Act in a Fantasy Text Adventure Game](https://arxiv.org/abs/1903.03094) with amazing collaborators at FAIR and NYU!  
+
 - **[May 2019]:** I am incredibly honored to have received the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class)!
 
 - **[Apr 2019]:** Our workshop paper ["Improving Grey-Box Fuzzing by Modeling Program Control Flow"](https://arxiv.org/abs/1811.08973) was 
