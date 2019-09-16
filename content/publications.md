@@ -2,6 +2,16 @@
 
 ### 2019
 
+[Finding Generalizable Evidence by Learning to Convince Q&A Models](https://arxiv.org/abs/1909.05863)  
+Ethan Perez, **Siddharth Karamcheti**, Rob Fergus, Jason Weston, Douwe Kiela, and Kyunghyun Cho.  
+[*Empirical Methods in Natural Language Processing (EMNLP)*](https://www.emnlp-ijcnlp2019.org/), November 2019  
+[[pdf]](/assets/papers/debate-emnlp19.pdf) [[blog post]](https://medium.com/@ethanperez18/what-convinces-q-a-models-7b39faf07825) [[code]](https://github.com/ethanjperez/allennlp)
+
+[Learning to Speak and Act in a Fantasy Text Adventure Game](https://arxiv.org/abs/1903.03094)  
+Jack Urbanek, Angela Fan, **Siddharth Karamcheti**, Saachi Jain, Samuel Humeau, Emily Dinan, Tim Rocktäschel, Douwe Kiela, Arthur Szlam, and Jason Weston.  
+[*Empirical Methods in Natural Language Processing (EMNLP)*](https://www.emnlp-ijcnlp2019.org/), November 2019  
+[[pdf]](/assets/papers/light-emnlp19.pdf) [[dataset]](https://parl.ai/projects/light/)
+
 [Improving Grey-Box Fuzzing by Modeling Program Control Flow](https://arxiv.org/abs/1811.08973)  
 **Siddharth Karamcheti**, Gideon Mann, and David Rosenberg  
 [*Workshop on Machine Learning for Software Engineering (ML4SE)*](https://ml4se.github.io/), June 2019  

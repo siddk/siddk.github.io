@@ -630,7 +630,7 @@ img.mfp-img {
     .sidebar {
       float: left;
       margin-left: 50px;
-      width: calc(200px - 1em);
+      width: calc(300px - 1em);
       opacity: 0.75;
       -webkit-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out; }
@@ -641,11 +641,7 @@ img.mfp-img {
         /* calculate height of nav list
            viewport height - nav height - masthead x-padding
         */
-        height: calc(100vh - 2em - 2em); } }
-  @media (min-width: 80em) {
-    .sidebar {
-      margin-left: 50px;
-      width: calc(300px - 1em); } }
+        height: 100vh; } }
   .sidebar > * {
     margin-top: 1em;
     margin-bottom: 1em; }
