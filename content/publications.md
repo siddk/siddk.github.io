@@ -1,5 +1,12 @@
 ## Publications
 
+### 2020
+
+[Generating Interactive Worlds with Text](https://arxiv.org/abs/1911.09194)
+Angela Fan*, Jack Urbanek*, Pratik Ringshia, Emily Dinan, Emma Qian, **Siddharth Karamcheti**, Shrimai Prabhumoye, Douwe Kiela, Tim Rocktäschel, Arthur Szlam, and Jason Weston.  
+[*Association for the Advancement of Artificial Intelligence (AAAI)*](https://aaai.org/Conferences/AAAI-20/), February 2020  
+[[pdf](/assets/papers/worldbuilding-aaai20.pdf) [[dataset]](https://parl.ai/projects/light/)]
+
 ### 2019
 
 [Finding Generalizable Evidence by Learning to Convince Q&A Models](https://arxiv.org/abs/1909.05863)  
