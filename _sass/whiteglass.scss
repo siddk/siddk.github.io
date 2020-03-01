@@ -17,7 +17,7 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    1200px !default;
 
 $on-palm:          800px !default;
 $on-laptop:        1000px !default;
@@ -49,4 +49,4 @@ $on-laptop:        1000px !default;
 // Import partials.
 @import "whiteglass/base";
 @import "whiteglass/layout";
-//@import "whiteglass/syntax-highlighting";
+@import "whiteglass/syntax-highlighting";
