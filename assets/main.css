@@ -40,6 +40,19 @@ table {
   margin: 0 0 20px 0;
   text-align: left; }
 
+@media screen and (max-width: 600px) {
+  img {
+    width: 70%;
+    display: block;
+    padding-left: 15%;
+    padding-right: 15%; }
+
+  .meta-center {
+    text-align: center; }
+
+  td {
+    display: table-row;
+    padding-bottom: 10px; } }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -144,16 +157,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(1200px - (30px * 2));
-  max-width: calc(1200px - (30px * 2));
+  max-width: -webkit-calc(1400px - (30px * 2));
+  max-width: calc(1400px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 1000px) {
     .wrapper {
-      max-width: -webkit-calc(1200px - (30px));
-      max-width: calc(1200px - (30px));
+      max-width: -webkit-calc(1400px - (30px));
+      max-width: calc(1400px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -182,7 +195,7 @@ pre {
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 600px) {
     .site-nav .page-link {
       padding: 20px 0;
       margin-left: 20px; }
