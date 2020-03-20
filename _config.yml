@@ -14,16 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Siddharth Karamcheti
-email: sidd.karamcheti@gmail.com
+email: skaramcheti@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   First-year PhD Student in Computer Science at Stanford. Interested in grounded language
-  understanding and interaction, building agents that can collaborate with humans and act safely in different
-  environments.
+  understanding and interaction, building agents that can collaborate with humans and grow more capable over time.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://siddkaramcheti.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: siddkaramcheti
 github_username:  siddk
 author: Siddharth Karamcheti
+facebook_image: "/assets/img/sidd.jpg"
+twitter_image: "/assets/img/sidd.jpg"
 
 # Google Analytics
 google_analytics: UA-65310310-1
