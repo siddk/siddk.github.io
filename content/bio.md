@@ -7,7 +7,7 @@
     <tbody>
         <tr>
             <td>
-                <img src="/assets/img/sidd.jpg" align="left" alt="Sidd" style="margin: 10px 10px 0px 0px;"/>
+                <img src="/assets/img/sidd.jpg" align="left" alt="Siddharth Karamcheti" style="margin: 10px 10px 0px 0px;"/>
                 <br clear="all"/><br clear="all"/>
                 <div class="meta-center">
                 <nobr><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <a href='&#109;a&#105;l&#116;o&#58;&#115;karamc&#104;%65%74%69&#37;&#52;0cs%2&#69;&#115;%74%&#54;1&#110;f%6F%72&#100;&#46;e%64u'>&#115;karamc&#104;eti&#64;c&#115;&#46;sta&#110;&#102;&#111;rd&#46;e&#100;u</a></nobr>
