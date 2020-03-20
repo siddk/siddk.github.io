@@ -16,8 +16,9 @@
 title: Siddharth Karamcheti
 email: sidd.karamcheti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  First-year PhD Student in Computer Science at Stanford. Ex-Resident at Facebook AI Research. Interested in grounded language
-  understanding, building agents that can collaborate with humans and act safely in different environments.
+  First-year PhD Student in Computer Science at Stanford. Interested in grounded language
+  understanding and interaction, building agents that can collaborate with humans and act safely in different
+  environments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: siddkaramcheti
