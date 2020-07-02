@@ -2,12 +2,12 @@
 layout: home
 ---
 
-{% include_relative content/bio.md %}
+{% include_relative _content/bio.md %}
 
 ---
 
-{% include_relative content/news.md %}
+{% include_relative _content/news.md %}
 
 --- 
 
-{% include_relative content/publications.md %}
+{% include_relative _content/publications.md %}

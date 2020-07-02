@@ -29,7 +29,7 @@
             </td>
             <td></td>
             <td markdown="span">  
-                I am a first-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/). My research focuses on natural language processing and machine learning, specifically developing robust models for 
+                I am a second-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/). My research focuses on natural language processing and machine learning, specifically developing robust models for 
                 grounded language understanding. My goal is to build agents that can collaborate effectively with humans and act safely
                 in different environments. I am grateful to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
                 <br/><br/>
