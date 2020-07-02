@@ -75,7 +75,6 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll-relative-links
   jekyll-whiteglass!
   rake
 
