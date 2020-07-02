@@ -1,107 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  
-  
-  <title>Siddharth Karamcheti</title>
-  <meta name="description" content="Second-year PhD Student in Computer Science at Stanford. Interested in grounded language understanding and interaction, building agents that can collaborate with humans and grow more capable over time.">
-  
-
-<!--  <link rel="stylesheet" href="/assets/main.css">-->
-  <link rel="canonical" href="https://siddkaramcheti.com/annotated/butd-gqa/">
-  
-  
-  <link rel="alternate" type="application/rss+xml" title="Siddharth Karamcheti" href="https://siddkaramcheti.com/feed.xml">
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-
-<script src="/assets/js/main.min.js"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
-
-  
-  <meta property="og:title" content="Siddharth Karamcheti">
-  <meta property="og:site_name" content="Siddharth Karamcheti">
-  <meta property="og:url" content="https://siddkaramcheti.com/annotated/butd-gqa/">
-  <meta property="og:description" content="Second-year PhD Student in Computer Science at Stanford. Interested in grounded language understanding and interaction, building agents that can collaborate with humans and grow more capable over time.">
-  
-  
-    <meta property="og:image" content="/assets/img/sidd.jpg">
-  
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="siddkaramcheti">
-  <meta name="twitter:title" content="Siddharth Karamcheti">
-  <meta name="twitter:description" content="Second-year PhD Student in Computer Science at Stanford. Interested in grounded language understanding and interaction, building agents that can collaborate with humans and grow more capable over t...">
-  
-    <meta name="twitter:creator" content="siddkaramcheti">
-  
-  
-    <meta name="twitter:image:src" content="/assets/img/sidd.jpg">
-  
-
-  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700&amp;display=swap" rel="stylesheet">
-
-  
-  <!-- Google Analytics -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-65310310-1', 'auto');
-    ga('send', 'pageview');
-
-  </script>
-
-
-</head>
-
-
-  <body>
-
-        <header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="/">Siddharth Karamcheti</a>
-
-    <nav class="site-nav">
-      
-        
-        <a class="page-link" href="/#about">About</a>
-      
-        
-        <a class="page-link" href="/#news">News</a>
-      
-        
-        <a class="page-link" href="/#publications">Publications</a>
-      
-        
-        <a class="page-link" href="/blog">Blog</a>
-      
-        
-        <a class="page-link" href="/assets/cv/CV.pdf">CV</a>
-      
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-            <html>
 <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <title>gqa.py</title>
@@ -109,251 +7,23 @@
     <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700" rel="stylesheet" />
     <style>
         /*--------------------- Layout and Typography ----------------------------*/
-
-        /**
-         * Clearfix
-         */
-        .wrapper:after, .pagination:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        /**
-         * Reset some basic elements
-         */
-        body, h1, h2, h3, h4, h5, h6,
-        p, blockquote, pre, hr,
-        dl, dd, ol, ul, figure {
-            margin: 0;
-            padding: 0;
-        }
-
-        h1, h2, h3, h4, h5, h6, p, blockquote,
-        pre, hr, dl, dd, ol, ul, figure {
-            margin: 0;
-            padding: 0;
-        }
-
-        /**
-         * Basic styling
-         */
         body {
             font: 400 16px/1.5 Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif;
-            color: #111;
+            line-height: 24px;
+            color: #252519;
+            margin: 0;
+            padding: 0;
             background: #f5f5ff;
-            -webkit-text-size-adjust: 100%;
-            -webkit-font-feature-settings: "kern" 1;
-            -moz-font-feature-settings: "kern" 1;
-            -o-font-feature-settings: "kern" 1;
-            font-feature-settings: "kern" 1;
-            font-kerning: normal;
-            word-wrap: break-word;
         }
 
-        table {
-            width: 100%;
-            margin: 0 0 20px 0;
-            text-align: left;
-        }
-
-        @media screen and (max-width: 600px) {
-            img {
-                width: 70%;
-                display: block;
-                padding-left: 15%;
-                padding-right: 15%;
-            }
-
-            .meta-center {
-                text-align: center;
-            }
-
-            td {
-                display: table-row;
-                padding-bottom: 10px;
-            }
-        }
-
-        /**
-         * Set `margin-bottom` to maintain vertical rhythm
-         */
-        h1, h2, h3, h4, h5, h6,
-        p, blockquote, pre,
-        ul, ol, dl, figure,
-        .highlight {
-            margin-bottom: 15px;
-        }
-
-        /**
-         * Images
-         */
-        img {
-            max-width: 100%;
-            vertical-align: middle;
-        }
-
-        /**
-         * Figures
-         */
-        figure > img {
-            display: block;
-        }
-
-        figcaption {
-            font-size: 14px;
-        }
-
-        /**
-         * Lists
-         */
-        ul, ol {
-            margin-left: 30px;
-        }
-
-        li > ul,
-        li > ol {
-            margin-bottom: 0;
-        }
-
-        /**
-         * Headings
-         */
-        h1, h2, h3, h4, h5, h6 {
-            font-weight: 400;
-        }
-
-        h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-            font-size: inherit;
-        }
-
-        /**
-         * Links
-         */
         a {
-            color: #2568ba;
-            text-decoration: none;
+            color: #261a3b;
         }
 
         a:visited {
-            color: #1d508f;
+            color: #261a3b;
         }
 
-        a:hover {
-            color: #111;
-            text-decoration: underline;
-        }
-
-        /**
-         * Blockquotes
-         */
-        blockquote {
-            color: #828282;
-            border-left: 4px solid #e8e8e8;
-            padding-left: 15px;
-            font-size: 18px;
-            letter-spacing: -1px;
-            font-style: italic;
-        }
-
-        blockquote > :last-child {
-            margin-bottom: 0;
-        }
-
-        /**
-         * Rules
-         */
-        hr {
-            height: 4px;
-            margin: 15px 0;
-            border: 0;
-            background-color: #e8e8e8;
-        }
-
-        /**
-         * Wrapper
-         */
-        .wrapper {
-            max-width: -webkit-calc(1400px - (30px * 2));
-            max-width: calc(1400px - (30px * 2));
-            margin-right: auto;
-            margin-left: auto;
-            padding-right: 30px;
-            padding-left: 30px;
-        }
-
-        @media screen and (max-width: 1000px) {
-            .wrapper {
-                max-width: -webkit-calc(1400px - (30px));
-                max-width: calc(1400px - (30px));
-                padding-right: 15px;
-                padding-left: 15px;
-            }
-        }
-
-        /**
-         * Site header
-         */
-        .site-header {
-            min-height: 56px;
-            position: relative;
-            background-color: #fdfdfd;
-
-        }
-
-        .site-title {
-            font-size: 25px;
-            font-weight: 300;
-            line-height: 56px;
-            letter-spacing: -1px;
-            margin-bottom: 0;
-            float: left;
-        }
-
-        .site-title, .site-title:visited {
-            color: #424242;
-        }
-
-        .site-nav {
-            float: right;
-            line-height: 56px;
-        }
-
-        .site-nav .page-link {
-            color: #111;
-            line-height: 1.5;
-        }
-
-        .site-nav .page-link:not(:last-child) {
-            margin-right: 20px;
-        }
-
-        @media screen and (max-width: 600px) {
-            .site-nav .page-link {
-                padding: 20px 0;
-                margin-left: 20px;
-            }
-
-            .site-nav .page-link:not(:last-child) {
-                margin-right: 0;
-            }
-        }
-
-        /**
-         * Site footer
-         */
-        .site-footer {
-            padding: 30px 0;
-            font-size: 15px;
-            color: #828282;
-            background-color: #fdfdfd;
-
-            text-align: center;
-        }
-
-        /**
-         * Pycco
-         */
         p {
             margin: 0 0 15px 0;
         }
@@ -494,6 +164,7 @@
         div.clearall {
             clear: both;
         }
+
 
         /*---------------------- Syntax Highlighting -----------------------------*/
         td.linenos {
@@ -829,6 +500,7 @@
         }
 
         /* Literal.Number.Integer.Long */
+
     </style>
 </head>
 
@@ -3451,26 +3123,6 @@
         <div class="clearall"></div>
     </div>
 </div>
-</body></html>
-
-
-
-        <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <p>
-      
-
-&copy; Siddharth Karamcheti - Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/yous/whiteglass">whiteglass</a> - Subscribe via <a href="https://siddkaramcheti.com/feed.xml">RSS</a>
-
-    </p>
-
-  </div>
-
-</footer>
-
-
-  </body>
-
+</body>
 </html>
+
