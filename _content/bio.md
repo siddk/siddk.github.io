@@ -29,7 +29,7 @@
             </td>
             <td></td>
             <td markdown="span">  
-                I am a first-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/) where I'm grateful to be co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and [Dorsa Sadigh](https://dorsa.fyi/). I am honored to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
+                I am a second-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/) where I'm grateful to be co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and [Dorsa Sadigh](https://dorsa.fyi/). I am honored to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
                 <br/><br/>
                 I focus on [Natural Language Processing](https://nlp.stanford.edu/) and [Human-Robot Interaction](http://iliad.stanford.edu/), specifically developing robust models for 
                 grounded language understanding. My goal is to build adaptive robot agents that can learn from natural language interactions to collaborate effectively with humans. 
