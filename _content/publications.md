@@ -2,9 +2,9 @@
 
 ### 2020
 
-[Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190)
-**Siddharth Karamcheti**, Dorsa Sadigh, Percy Liang.
-[*Workshop for Interactive and Executable Semantic Parsing (IntEx-Sempar) @ EMNLP 2020*](https://intex-sempar.github.io/), November 2020.
+[Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190)  
+**Siddharth Karamcheti**, Dorsa Sadigh, Percy Liang.  
+[*Workshop for Interactive and Executable Semantic Parsing (IntEx-Sempar) @ EMNLP 2020*](https://intex-sempar.github.io/), November 2020.  
 [[pdf]](/assets/papers/intexsempar20.pdf) 
 
 [Generating Interactive Worlds with Text](https://arxiv.org/abs/1911.09194)  
