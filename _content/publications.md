@@ -2,6 +2,11 @@
 
 ### 2020
 
+[Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190)
+**Siddharth Karamcheti**, Dorsa Sadigh, Percy Liang.
+[*Workshop for Interactive and Executable Semantic Parsing (IntEx-Sempar) @ EMNLP 2020*](https://intex-sempar.github.io/), November 2020.
+[[pdf]](/assets/papers/intexsempar20.pdf) 
+
 [Generating Interactive Worlds with Text](https://arxiv.org/abs/1911.09194)  
 Angela Fan\*, Jack Urbanek\*, Pratik Ringshia, Emily Dinan, Emma Qian, **Siddharth Karamcheti**, Shrimai Prabhumoye, Douwe Kiela, Tim Rocktäschel, Arthur Szlam, and Jason Weston.  
 [*Association for the Advancement of Artificial Intelligence (AAAI)*](https://aaai.org/Conferences/AAAI-20/), February 2020  
