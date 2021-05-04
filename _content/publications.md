@@ -6,6 +6,13 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 *Preprint*  
 [[pdf]](/assets/papers/ella-preprint21.pdf)[[code]](https://github.com/Stanford-ILIAD/ELLA)
 
+### 2021
+[Learning Visually Guided Latent Actions for Assistive Teleoperation](https://arxiv.org/abs/2105.00580)  
+**Siddharth Karamcheti**, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh.  
+[*Learning for Dynamics and Control (L4DC)*](https://l4dc.ethz.ch/), June 2021.  
+[[pdf]](/assets/papers/l4dc21.pdf)[[code]](https://github.com/Stanford-ILIAD/vla)
+
+
 ### 2020
 
 [Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190)  
