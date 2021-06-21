@@ -10,7 +10,7 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 
 [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728)  
 Minae Kwon, **Siddharth Karamcheti**, Mariano-Florentino Cuéllar, Dorsa Sadigh.  
-[*International Conference on Machine Learning (ICML)*](https://icml.cc/), July 2021.
+[*International Conference on Machine Learning (ICML)*](https://icml.cc/), July 2021.  
 [[pdf]](/assets/papers/icml21.pdf) [[talk]](https://youtu.be/xxCSim8YOVM) [[slides]](/assets/slides/icml21.pdf)
 
 [Learning Visually Guided Latent Actions for Assistive Teleoperation](https://arxiv.org/abs/2105.00580)  
