@@ -1,7 +1,7 @@
 ## News
-- **[June 2021]:** Thrilled to share our [L4DC 2021](https://l4dc.ethz.ch/) Paper - [Learning Visually Guided Latent Actions for Assistive Teleoperation](https://arxiv.org/abs/2105.00580) with Albert Zhai, [Dylan Losey](https://dylanlosey.com/), and [Dorsa Sadigh](https://dorsa.fyi/)! See you there (virtually)!
+- **[July 2021]:** Stoked to share our [ICML 2021](https://icml.cc/) Paper - [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728) with the amazing [Minae Kwon](https://stanford.edu/~mnkwon/), [Justice Mariano-Florentino Cuéllar](https://law.stanford.edu/directory/mariano-florentino-cuellar/) and  [Dorsa Sadigh](https://dorsa.fyi/)! Very excited to see you there (virtually)!   
 
-- **[November 2020]:** Excited to present our work at the [Workshop for Interactive and Executable Semantic Parsing (IntEx-SemPar)](https://intex-sempar.github.io/) @ EMNLP 2020 - [Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190) with my advisors [Percy Liang](https://cs.stanford.edu/~pliang/) and [Dorsa Sadigh](https://dorsa.fyi/)!
+- **[June 2021]:** Thrilled to present our [L4DC 2021](https://l4dc.ethz.ch/) Paper - [Learning Visually Guided Latent Actions for Assistive Teleoperation](https://arxiv.org/abs/2105.00580) with Albert Zhai, [Dylan Losey](https://dylanlosey.com/), and [Dorsa Sadigh](https://dorsa.fyi/)! See you there (virtually)!
 
 - **[October 2019]:** I'm starting my PhD at Stanford, where I'm spending my first year rotating with [Percy Liang](https://cs.stanford.edu/~pliang/), [Dorsa Sadigh](https://dorsa.fyi/), and [Chris Manning](https://nlp.stanford.edu/manning/)!
 

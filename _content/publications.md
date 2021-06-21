@@ -4,13 +4,19 @@
 [ELLA: Exploration through Learned Language Abstraction](https://arxiv.org/abs/2103.05825)  
 Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.  
 *Preprint*  
-[[pdf]](/assets/papers/ella-preprint21.pdf)[[code]](https://github.com/Stanford-ILIAD/ELLA)
+[[pdf]](/assets/papers/ella-preprint21.pdf) [[code]](https://github.com/Stanford-ILIAD/ELLA)
 
 ### 2021
+
+[Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728)  
+Minae Kwon, **Siddharth Karamcheti**, Mariano-Florentino Cuéllar, Dorsa Sadigh.  
+[*International Conference on Machine Learning (ICML)*](https://icml.cc/), July 2021.
+[[pdf]](/assets/papers/icml21.pdf) [[talk]](https://youtu.be/xxCSim8YOVM) [[slides]](/assets/slides/icml21.pdf)
+
 [Learning Visually Guided Latent Actions for Assistive Teleoperation](https://arxiv.org/abs/2105.00580)  
 **Siddharth Karamcheti**, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh.  
 [*Learning for Dynamics and Control (L4DC)*](https://l4dc.ethz.ch/), June 2021.  
-[[pdf]](/assets/papers/l4dc21.pdf)[[code]](https://github.com/Stanford-ILIAD/vla)
+[[pdf]](/assets/papers/l4dc21.pdf) [[talk]](https://youtu.be/6nTlH5ALsJQ) [[slides]](/assets/slides/l4dc21.pdf) [[code]](https://github.com/Stanford-ILIAD/vla/) [[poster]](/assets/posters/l4dc21.pdf)
 
 
 ### 2020
@@ -18,7 +24,7 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 [Learning Adaptive Language Interfaces through Decomposition](https://arxiv.org/abs/2010.05190)  
 **Siddharth Karamcheti**, Dorsa Sadigh, Percy Liang.  
 [*Workshop for Interactive and Executable Semantic Parsing (IntEx-SemPar) @ EMNLP 2020*](https://intex-sempar.github.io/), November 2020.  
-[[pdf]](/assets/papers/intexsempar20.pdf) 
+[[pdf]](/assets/papers/intexsempar20.pdf)  [[slides]](/assets/slides/intexsempar20.pdf)
 
 [Generating Interactive Worlds with Text](https://arxiv.org/abs/1911.09194)  
 Angela Fan\*, Jack Urbanek\*, Pratik Ringshia, Emily Dinan, Emma Qian, **Siddharth Karamcheti**, Shrimai Prabhumoye, Douwe Kiela, Tim Rocktäschel, Arthur Szlam, and Jason Weston.  
@@ -40,7 +46,7 @@ Jack Urbanek, Angela Fan, **Siddharth Karamcheti**, Saachi Jain, Samuel Humeau, 
 [Improving Grey-Box Fuzzing by Modeling Program Control Flow](https://arxiv.org/abs/1811.08973)  
 **Siddharth Karamcheti**, Gideon Mann, and David Rosenberg  
 [*Workshop on Machine Learning for Software Engineering (ML4SE)*](https://ml4se.github.io/), June 2019  
-[[pdf]](/assets/papers/ml4se19.pdf)
+[[pdf]](/assets/papers/ml4se19.pdf) [[slides]](/assets/slides/ml4se19.pdf)
 
 [Grounding Natural Language Instructions to Semantic Goal Representations for Abstraction and Generalization](https://doi.org/10.1007/s10514-018-9792-8)  
 Dilip Arumugam*, __Siddharth Karamcheti*__, Nakul Gopalan, Edward C. Williams, Mina Rhee, Lawson L.S. Wong, and Stefanie Tellex  
@@ -52,7 +58,7 @@ Dilip Arumugam*, __Siddharth Karamcheti*__, Nakul Gopalan, Edward C. Williams, M
 [Adaptive Grey-Box Fuzz Testing with Thompson Sampling](https://arxiv.org/abs/1808.08256)  
 **Siddharth Karamcheti**, Gideon Mann, and David Rosenberg  
 [*11th ACM Workshop on Artificial Intelligence and Security (AISEC)*](http://aisec2018.icsi.berkeley.edu/aisec2018/program.html), October 2018  
-[[pdf]](/assets/papers/aisec18.pdf) [[talk]](/assets/talks/aisec18.pdf)
+[[pdf]](/assets/papers/aisec18.pdf) [[slides]](/assets/slides/aisec18.pdf)
 
 ### 2017
 
