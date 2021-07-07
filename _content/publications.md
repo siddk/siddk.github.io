@@ -8,6 +8,12 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 
 ### 2021
 
+[Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/abs/2107.02331)  
+**Siddharth Karamcheti**, Ranjay Krishna, Li Fei-Fei, Christopher D. Manning.
+[*Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP)*], August 2021.  
+<span style="color:orange"><b>Outstanding Paper Award</b></span>  
+[[pdf]](/assets/papers/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers)
+
 [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728)  
 Minae Kwon, **Siddharth Karamcheti**, Mariano-Florentino Cuéllar, Dorsa Sadigh.  
 [*International Conference on Machine Learning (ICML)*](https://icml.cc/), July 2021.  
@@ -70,7 +76,7 @@ Christopher Grimm, Dilip Arumugam, **Siddharth Karamcheti**, David Abel, Lawson 
 [A Tale of Two DRAGGNs: A Hybrid Approach for Interpreting Action-Oriented and Goal-Oriented Instructions](https://arxiv.org/abs/1707.08668)  
 **Siddharth Karamcheti**, Edward C. Williams, Dilip Arumugam, Mina Rhee, Nakul Gopalan, Lawson L.S. Wong, and Stefanie Tellex  
 [*1st Workshop in Language Grounding for Robotics (RoboNLP) @ ACL*](https://robo-nlp.github.io/2017_index.html), August 2017  
-**Best Paper Award**  
+<span style="color:orange"><b>Best Paper Award</b></span>  
 [[pdf]](/assets/papers/robonlp17.pdf) 
 
 [Accurately and Efficiently Interpreting Human-Robot Instructions of Varying Granularities](https://arxiv.org/abs/1704.06616)  
