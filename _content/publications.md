@@ -9,8 +9,8 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 ### 2021
 
 [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/abs/2107.02331)  
-**Siddharth Karamcheti**, Ranjay Krishna, Li Fei-Fei, Christopher D. Manning.
-[*Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP)*], August 2021.  
+**Siddharth Karamcheti**, Ranjay Krishna, Li Fei-Fei, Christopher D. Manning.  
+[*Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP)*](https://2021.aclweb.org/), August 2021.  
 <span style="color:orange"><b>Outstanding Paper Award</b></span>  
 [[pdf]](/assets/papers/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers)
 

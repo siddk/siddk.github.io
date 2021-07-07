@@ -1,5 +1,5 @@
 ## News
-- **[August 2021]:** Excited to share our [ACL-IJCNLP 2021](https://2021.aclweb.org/) Paper - [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/abs/2107.02331) with the incredible [Ranjay Krishna](http://www.ranjaykrishna.com/index.html), [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), and [Christopher D. Manning](https://nlp.stanford.edu/manning/)! 
+- **[August 2021]:** Excited to share our [ACL 2021](https://2021.aclweb.org/) Paper - [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/abs/2107.02331) with the incredible [Ranjay Krishna](http://www.ranjaykrishna.com/index.html), [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), and [Christopher D. Manning](https://nlp.stanford.edu/manning/)! 
 
 - **[July 2021]:** Stoked to share our [ICML 2021](https://icml.cc/) Paper - [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728) with the amazing [Minae Kwon](https://stanford.edu/~mnkwon/), [Justice Mariano-Florentino Cuéllar](https://law.stanford.edu/directory/mariano-florentino-cuellar/), and [Dorsa Sadigh](https://dorsa.fyi/)! Very excited to see you there (virtually)!   
 
