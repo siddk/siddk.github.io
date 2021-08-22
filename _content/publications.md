@@ -8,11 +8,24 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 
 ### 2021
 
+[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)  
+[Center for Research on Foundation Models (CRFM)](https://crfm.stanford.edu/people.html) – Directed by Percy Liang, 
+with 100+ authors.  
+<span style="color:#1E647E"><b>Sections Authored:</b></span>
+  - _Robotics (§2.3)_: **Siddharth Karamcheti** (Section Lead), Annie Chen, Suvir Mirchandani, Suraj Nair, Krishnan
+   Srinivasan, Kyle Hsu, Jeannette Bohg, Dorsa Sadigh, and Chelsea Finn.
+  - _Interaction (§2.5)_:  Joon Sung Park (Section Lead), Chris Donahue, Mina Lee, **Siddharth Karamcheti**, Dorsa
+   Sadigh, Michael Bernstein.  
+
+[[pdf]](/assets/papers/foundation.pdf) [[homepage]](https://crfm.stanford.edu/index.html) 
+[[workshop]](https://crfm.stanford.edu/workshop.html) [[press]](https://venturebeat.com/2021/08/18/foundation-models-risk-exacerbating-mls-ethical-challenges/)
+
 [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/abs/2107.02331)  
 **Siddharth Karamcheti**, Ranjay Krishna, Li Fei-Fei, Christopher D. Manning.  
 [*Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP)*](https://2021.aclweb.org/), August 2021.  
 <span style="color:#F38000"><b>Outstanding Paper Award</b></span>  
-[[pdf]](/assets/papers/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers)
+[[pdf]](/assets/papers/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers) [[talk]](https://youtu.be/L0f9mZMn5GM) 
+[[slides]](/assets/slides/acl21.pdf) [[other coverage]](https://youtu.be/R_9gJhmvsS0)
 
 [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728)  
 Minae Kwon, **Siddharth Karamcheti**, Mariano-Florentino Cuéllar, Dorsa Sadigh.  
