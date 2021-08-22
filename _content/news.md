@@ -1,6 +1,6 @@
 ## News
 - **[August 2021]:** Our report - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
-with over 100+ authors spanning 10+ disciplines at Stanford is out! Catch the [Workshop on Foundation Models](https
+with over 100+ authors at Stanford is out! Catch the [Workshop on Foundation Models](https
 ://crfm.stanford.edu/workshop.html) on August 23-24, where [Laurel Orr](https://cs.stanford.edu/people/lorr1/) and I
  are giving a talk about accessible and transparent training for large-scale language models!
 
