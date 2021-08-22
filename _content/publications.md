@@ -9,14 +9,14 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 ### 2021
 
 [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)  
-[Center for Research on Foundation Models (CRFM)](https://crfm.stanford.edu/people.html) – Directed by Percy Liang, 
-with 100+ authors.  
-<span style="color:#1E647E"><b>Sections Authored:</b></span>
-  - _Robotics (§2.3)_: **Siddharth Karamcheti** (Section Lead), Annie Chen, Suvir Mirchandani, Suraj Nair, Krishnan
-   Srinivasan, Kyle Hsu, Jeannette Bohg, Dorsa Sadigh, and Chelsea Finn.
-  - _Interaction (§2.5)_:  Joon Sung Park (Section Lead), Chris Donahue, Mina Lee, **Siddharth Karamcheti**, Dorsa
-   Sadigh, Michael Bernstein.  
-
+Report spanning [100+ Authors across 10+ Disciplines](https://crfm.stanford.edu/people.html) at Stanford -- Directed
+ by Percy Liang.      
+<span style="color:#1E647E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Robotics (§2.3)</span>: 
+**Siddharth Karamcheti** (Lead), Annie Chen, Suvir Mirchandani, Suraj Nair, Krishnan Srinivasan, Kyle Hsu, 
+Jeannette Bohg, Dorsa Sadigh, and Chelsea Finn.  
+<span style="color:#1E647E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Interaction (§2.5)</span>:  Joon Sung Park, 
+Chris Donahue, Mina Lee, **Siddharth Karamcheti**, Dorsa Sadigh, Michael Bernstein.  
+[*Workshop on Foundation Models -- Center for Research on Foundation Models (CRFM)*](https://crfm.stanford.edu/index.html)  
 [[pdf]](/assets/papers/foundation.pdf) [[homepage]](https://crfm.stanford.edu/index.html) 
 [[workshop]](https://crfm.stanford.edu/workshop.html) [[press]](https://venturebeat.com/2021/08/18/foundation-models-risk-exacerbating-mls-ethical-challenges/)
 
