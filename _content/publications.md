@@ -9,7 +9,7 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 ### 2021
 
 [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)  
-Report spanning [100+ Authors across 10+ Disciplines](https://crfm.stanford.edu/people.html) at Stanford -- Directed
+Report spanning [100+ Authors across Disciplines](https://crfm.stanford.edu/people.html) at Stanford -- Directed
  by Percy Liang.      
 <span style="color:#1E647E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Robotics (§2.3)</span>: 
 **Siddharth Karamcheti** (Lead), Annie Chen, Suvir Mirchandani, Suraj Nair, Krishnan Srinivasan, Kyle Hsu, 
