@@ -1,22 +1,32 @@
 ## Publications
 
-### Preprints
-[ELLA: Exploration through Learned Language Abstraction](https://arxiv.org/abs/2103.05825)  
-Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.  
-*Preprint*  
-[[pdf]](/assets/papers/ella-preprint21.pdf) [[code]](https://github.com/Stanford-ILIAD/ELLA)
+### Blog Posts
+[Mistral – A Journey towards Reproducible Language Model Training](https://crfm.stanford.edu/2021/08/26/mistral.html)    
+**Siddharth Karamcheti*** and Laurel Orr* -- August, 2021.  
+*Team:* Jason Bolton, Tianyi Zhang, Karan Goel, Avanika Narayan, Rishi Bommasani, Deepak Narayanan  
+*Advisors:* Tatsunori Hashimoto, Dan Jurafsky, Christopher D. Manning, Christopher Potts, Christopher Ré, Percy Liang  
+[[code]](https://github.com/stanford-crfm/mistral) [[checkpoints]](https://huggingface.co/stanford-crfm) [[talk]](https://youtu.be/du1YiytHwXs?t=3294)
 
 ### 2021
 
+[ELLA: Exploration through Learned Language Abstraction](https://arxiv.org/abs/2103.05825)  
+Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.  
+[*Conference on Neural Information Processing Systems (NeurIPS)*](https://nips.cc/), December 2021.  
+[[pdf]](/assets/papers/neurips21.pdf) [[talk]](https://www.youtube.com/watch?v=7iDeF5eiyIA) [[slides]](/assets/slides/neurips21.pdf) 
+[[code]](https://github.com/Stanford-ILIAD/ELLA)
+
+[LILA: Language-Informed Latent Actions](https://arxiv.org/abs/2111.03205)  
+**Siddharth Karamcheti***, Megha Srivastava*, Percy Liang, Dorsa Sadigh.  
+[*Conference on Robot Learning (CoRL)*](https://www.robot-learning.org/), November 2021.  
+[[pdf]](/assets/papers/corl21.pdf) [[homepage]](https://sites.google.com/view/lila-corl21) [[code]](https://github.com/siddk/lila) [[poster]](/assets/posters/corl21.pdf)
+
 [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)  
-Report spanning [100+ Authors across Disciplines](https://crfm.stanford.edu/people.html) at Stanford -- Directed
- by Percy Liang.      
+[*Center for Research on Foundation Models (CRFM)*](https://crfm.stanford.edu) -- 100+ authors, directed by Percy Liang.        
 <span style="color:#1E647E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Robotics (§2.3)</span>: 
 **Siddharth Karamcheti** (Lead), Annie Chen, Suvir Mirchandani, Suraj Nair, Krishnan Srinivasan, Kyle Hsu, 
 Jeannette Bohg, Dorsa Sadigh, and Chelsea Finn.  
 <span style="color:#1E647E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Interaction (§2.5)</span>:  Joon Sung Park, 
 Chris Donahue, Mina Lee, **Siddharth Karamcheti**, Dorsa Sadigh, Michael Bernstein.  
-[*Workshop on Foundation Models -- Center for Research on Foundation Models (CRFM)*](https://crfm.stanford.edu/index.html)  
 [[pdf]](/assets/papers/foundation.pdf) [[homepage]](https://crfm.stanford.edu/index.html) 
 [[workshop]](https://crfm.stanford.edu/workshop.html) [[press]](https://venturebeat.com/2021/08/18/foundation-models-risk-exacerbating-mls-ethical-challenges/)
 
@@ -24,8 +34,8 @@ Chris Donahue, Mina Lee, **Siddharth Karamcheti**, Dorsa Sadigh, Michael Bernste
 **Siddharth Karamcheti**, Ranjay Krishna, Li Fei-Fei, Christopher D. Manning.  
 [*Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP)*](https://2021.aclweb.org/), August 2021.  
 <span style="color:#F38000"><b>Outstanding Paper Award</b></span>  
-[[pdf]](/assets/papers/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers) [[talk]](https://youtu.be/L0f9mZMn5GM) 
-[[slides]](/assets/slides/acl21.pdf) [[other coverage]](https://youtu.be/R_9gJhmvsS0)
+[[pdf]](/assets/papers/acl21.pdf) [[talk]](https://youtu.be/L0f9mZMn5GM) 
+[[slides]](/assets/slides/acl21.pdf) [[code]](https://github.com/siddk/vqa-outliers) [[other coverage]](https://youtu.be/R_9gJhmvsS0)
 
 [Targeted Data Acquisition for Evolving Negotiation Agents](https://arxiv.org/abs/2106.07728)  
 Minae Kwon, **Siddharth Karamcheti**, Mariano-Florentino Cuéllar, Dorsa Sadigh.  

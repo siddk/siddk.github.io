@@ -31,22 +31,27 @@
             <td markdown="span">  
                 I am a third-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/) 
                 where I'm grateful to be co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and 
-                [Dorsa Sadigh](https://dorsa.fyi/). 
+                [Dorsa Sadigh](https://dorsa.fyi/). I additionally work part-time as a Research Intern at [Hugging
+                 Face 🤗](https://huggingface.co/) working on scaling and multimodal pretraining.
                 I am honored to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
                 <br/><br/>
-                I focus on [Natural Language Processing](https://nlp.stanford.edu/) and [Human-Robot Interaction](http://iliad.stanford.edu/), specifically developing robust models for 
-                grounded language understanding and shared autonomy. My goal is to build adaptive robot agents that can
-                learn from natural language interaction to collaborate effectively with humans. 
+                I focus on [Natural Language Processing](https://nlp.stanford.edu/) and [Human-Robot Interaction](http://iliad.stanford.edu/), developing robust models for 
+                grounded language understanding and shared autonomy. My long-term goal is to build adaptive robot
+                agents that can learn from interaction to work effectively with humans. 
                 <br/><br/>
-                Before starting at Stanford, I was a Resident at 
+                To do this, my current research operates at the intersection of <a href="https://crfm.stanford.edu
+                /2021/08/26/mistral.html">large-scale pretraining</a> (developing better "raw materials" for language and
+                robotics) and <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot
+                manipulation</a> (concrete, human-in-the-loop applications). 
+                <br/><br/>
+                Before Stanford, I was a Resident at 
                 [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York, where
                 I was lucky to work with [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php), 
                 [Arthur Szlam](https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en), 
                 [Douwe Kiela](https://douwekiela.github.io/), and 
-                [Jason Weston](http://www.thespermwhale.com/jaseweston/) on problems in grounded language understanding
-                and deep reinforcement learning. 
+                [Jason Weston](http://www.thespermwhale.com/jaseweston/) on grounded language understanding. Here's <a href="https://research.fb.com/qa-with-facebook-ai-residents-tatiana-likhomanenko-and-siddharth-karamcheti/">a short Q & A I did about my work as a resident.</a>
                 <br/><br/>
-                I received my undergraduate degree from [Brown University](https://www.brown.edu/) in May 2018, where I 
+                I was an undergraduate at [Brown University](https://www.brown.edu/), where I 
                 concentrated in Computer Science and Literary Arts. While at Brown, I did research in natural language processing and human-robot 
                 interaction advised by [Stefanie Tellex](http://cs.brown.edu/people/stellex/) and [Eugene Charniak](http://cs.brown.edu/people/echarnia/).
             </td>
