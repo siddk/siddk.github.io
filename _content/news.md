@@ -1,6 +1,6 @@
 ## News
 
-- **[December 2021:** Excited about our new [NeurIPS 2021](https://nips.cc/) paper ["ELLA: Exploration through Learned
+- **[December 2021:]** Excited about our new [NeurIPS 2021](https://nips.cc/) paper ["ELLA: Exploration through Learned
  Language Abstraction,"](https://arxiv.org/abs/2103.05825) led by the fantastic [Suvir Mirchandani](https
  ://suvirpmirchandani.com/), with my advisor [Dorsa Sadigh](https://dorsa.fyi/). See you virtually!
 
