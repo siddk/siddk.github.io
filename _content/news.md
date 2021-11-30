@@ -1,8 +1,7 @@
 ## News
 
 - **[December 2021]:** Excited about our new [NeurIPS 2021](https://nips.cc/) paper ["ELLA: Exploration through Learned
- Language Abstraction,"](https://arxiv.org/abs/2103.05825) led by the fantastic [Suvir Mirchandani](https
- ://suvirpmirchandani.com/), with my advisor [Dorsa Sadigh](https://dorsa.fyi/). See you virtually!
+ Language Abstraction,"](https://arxiv.org/abs/2103.05825) led by the fantastic [Suvir Mirchandani](https://suvirpmirchandani.com/), with my advisor [Dorsa Sadigh](https://dorsa.fyi/). See you virtually!
 
 - **[November 2021]:** Incredibly proud to have presented our paper ["LILA: Language-Informed Latent Actions"](https://arxiv.org/abs/2111.03205) 
 at the [Conference on Robot Learning (CoRL) 2021](https://www.robot-learning.org/) in London. This is my first language
