@@ -16,7 +16,7 @@ Suvir Mirchandani, **Siddharth Karamcheti**, Dorsa Sadigh.
 [[code]](https://github.com/Stanford-ILIAD/ELLA)
 
 [LILA: Language-Informed Latent Actions](https://arxiv.org/abs/2111.03205)  
-**Siddharth Karamcheti***, Megha Srivastava*, Percy Liang, Dorsa Sadigh.  
+__Siddharth Karamcheti__\*, Megha Srivastava\*, Percy Liang, Dorsa Sadigh.  
 [*Conference on Robot Learning (CoRL)*](https://www.robot-learning.org/), November 2021.  
 [[pdf]](/assets/papers/corl21.pdf) [[homepage]](https://sites.google.com/view/lila-corl21) [[code]](https://github.com/siddk/lila) [[poster]](/assets/posters/corl21.pdf)
 
@@ -78,7 +78,7 @@ Jack Urbanek, Angela Fan, **Siddharth Karamcheti**, Saachi Jain, Samuel Humeau, 
 [[pdf]](/assets/papers/ml4se19.pdf) [[slides]](/assets/slides/ml4se19.pdf)
 
 [Grounding Natural Language Instructions to Semantic Goal Representations for Abstraction and Generalization](https://doi.org/10.1007/s10514-018-9792-8)  
-Dilip Arumugam*, __Siddharth Karamcheti*__, Nakul Gopalan, Edward C. Williams, Mina Rhee, Lawson L.S. Wong, and Stefanie Tellex  
+Dilip Arumugam\*, **Siddharth Karamcheti**\*, Nakul Gopalan, Edward C. Williams, Mina Rhee, Lawson L.S. Wong, and Stefanie Tellex  
 [*Autonomous Robots (AuRO)*](https://link.springer.com/journal/10514), February 2019  
 [[free-to-read pdf]](/assets/papers/auro19.pdf)
 
@@ -103,6 +103,6 @@ Christopher Grimm, Dilip Arumugam, **Siddharth Karamcheti**, David Abel, Lawson 
 [[pdf]](/assets/papers/robonlp17.pdf) 
 
 [Accurately and Efficiently Interpreting Human-Robot Instructions of Varying Granularities](https://arxiv.org/abs/1704.06616)  
-Dilip Arumugam*, __Siddharth Karamcheti*__, Nakul Gopalan, Lawson L.S. Wong, and Stefanie Tellex  
+Dilip Arumugam\*, **Siddharth Karamcheti**\*, Nakul Gopalan, Lawson L.S. Wong, and Stefanie Tellex  
 [*Robotics: Science and Systems (RSS)*](http://www.roboticsproceedings.org/rss13/index.html), June 2017  
 [[pdf]](/assets/papers/rss17.pdf)
