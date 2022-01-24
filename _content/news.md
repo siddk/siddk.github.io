@@ -1,5 +1,10 @@
 ## News
 
+- **[January 2022]:** The [S4 architecture for sequence modeling](https://arxiv.org/abs/2111.00396) is incredibly
+ cool, though a bit nonintuitive. To address this, [Sasha Rush](http://rush-nlp.com/) and I wrote [The Annotated S4](https://srush.github.io/annotated-s4/) 
+ a blog post and [library](https://github.com/srush/annotated-s4/) to serve as a companion to the original work
+ by [Albert Gu](http://web.stanford.edu/~albertgu/) and [Karan Goel](https://krandiash.github.io/)!
+
 - **[December 2021]:** Excited about our new [NeurIPS 2021](https://nips.cc/) paper ["ELLA: Exploration through Learned
  Language Abstraction,"](https://arxiv.org/abs/2103.05825) led by the fantastic [Suvir Mirchandani](https://suvirpmirchandani.com/), with my advisor [Dorsa Sadigh](https://dorsa.fyi/). See you virtually!
 
@@ -11,11 +16,6 @@ at the [Conference on Robot Learning (CoRL) 2021](https://www.robot-learning.org
 - **[October 2021]:** Thrilled to announce that I've joined [Hugging Face 🤗](https://huggingface.co/) as a part-time
 Research Intern, while working towards my PhD. I'll be working with [Stas Bekman](https://twitter.com/StasBekman) and
 [Thomas Wolf](https://thomwolf.io/) on accessible scaling & training, as well as multimodal pretraining. 
-
-- **[August 2021]:** [Laurel Orr](https://cs.stanford.edu/people/lorr1/) and I [gave a talk about accessible and
- transparent training for large-scale language models](https://youtu.be/du1YiytHwXs?t=3294) at the 
- [CRFM Workshop](https://crfm.stanford.edu/workshop.html)! Read our [blog post here.](https://crfm.stanford.edu/2021
- /08/26/mistral.html)
 
 - **[August 2021]:** Our [ACL 2021](https://2021.aclweb.org/) Paper  won an <span style="color:#F38000"><b>Outstanding
  Paper Award</b></span>! Check out ["Mind Your Outliers! Investigating the Negative

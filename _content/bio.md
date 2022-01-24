@@ -35,14 +35,14 @@
                  Face 🤗](https://huggingface.co/) working on scaling and multimodal pretraining.
                 I am honored to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
                 <br/><br/>
-                I focus on [Natural Language Processing](https://nlp.stanford.edu/) and [Human-Robot Interaction](http://iliad.stanford.edu/), developing robust models for 
-                grounded language understanding and shared autonomy. My long-term goal is to build adaptive robot
-                agents that can learn from interaction to work effectively with humans. 
-                <br/><br/>
-                To do this, my current research operates at the intersection of <a href="https://crfm.stanford.edu
-                /2021/08/26/mistral.html">large-scale pretraining</a> (developing better "raw materials" for language and
-                robotics) and <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot
-                manipulation</a> (concrete, human-in-the-loop applications). 
+                I focus on [Human-Robot Interaction](http://iliad.stanford.edu/) and [Natural Language Processing](https://nlp.stanford.edu/), 
+                developing robust models for grounded language understanding and learning from interaction. 
+                <br><br>
+                My
+                research operates at the intersection of <a href="https://crfm.stanford.edu/2021/08/26/mistral.html">large-scale pretraining</a> 
+                (developing better "raw materials" for language and robotics) and 
+                <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot manipulation</a> 
+                (interactive, human-in-the-loop applications). 
                 <br/><br/>
                 Before Stanford, I was a Resident at 
                 [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York, where

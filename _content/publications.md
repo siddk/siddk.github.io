@@ -1,8 +1,13 @@
 ## Publications
 
 ### Blog Posts
+[The Annotated S4 – Efficiently Modeling Long Sequences with Structured State Spaces](https://srush.github.io
+/annotated-s4/)  
+Sasha Rush and **Siddharth Karamcheti** – January, 2022.  
+[[library]](https://github.com/srush/annotated-s4/)[[original paper]](https://arxiv.org/abs/2111.00396)  
+
 [Mistral – A Journey towards Reproducible Language Model Training](https://crfm.stanford.edu/2021/08/26/mistral.html)    
-**Siddharth Karamcheti*** and Laurel Orr* -- August, 2021.  
+**Siddharth Karamcheti*** and Laurel Orr* – August, 2021.  
 *Team:* Jason Bolton, Tianyi Zhang, Karan Goel, Avanika Narayan, Rishi Bommasani, Deepak Narayanan  
 *Advisors:* Tatsunori Hashimoto, Dan Jurafsky, Christopher D. Manning, Christopher Potts, Christopher Ré, Percy Liang  
 [[code]](https://github.com/stanford-crfm/mistral) [[checkpoints]](https://huggingface.co/stanford-crfm) [[talk]](https://youtu.be/du1YiytHwXs?t=3294)
