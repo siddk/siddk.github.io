@@ -37,13 +37,13 @@
                 working on multimodal pretraining and scaling. I am honored to be supported by the 
                 <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced
                 -artificial-intelligence/the-open-phil-ai-fellowship#Class">Open Philanthropy Project AI Fellowship</a>.
-                <br/><br/>
+                <ul></ul>
                 <b>Research:</b> I focus on <a href="http://iliad.stanford.edu/">human-robot interaction</a> and 
                 <a href="https://nlp.stanford.edu/">natural language processing</a>. My
                 research focuses on two axes:
                 <ul>
                     <li><a href="https://crfm.stanford.edu/2021/08/26/mistral.html">Large-scale pretraining and representation learning</a> (developing better "raw materials" for robotics & language)</li>
-                    <li>Employing these raw materials for better <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot manipulation</a> (interactive, human-in-the-loop applications)</li>
+                    <li><a href="https://arxiv.org/abs/2111.03205">Better language & shared autonomy for robotics</a> (interactive, human applications) by employing these materials!</li>
                 </ul>
                 <b>Timeline:</b> Before Stanford, I was a resident at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> in New York,
                 where I was lucky to work with <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">Rob Fergus</a>, 
@@ -51,7 +51,7 @@
                 <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>, and
                 <a href="https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en">Arthur Szlam</a> on grounded
                 language understanding. Here's <a href="https://research.fb.com/qa-with-facebook-ai-residents-tatiana-likhomanenko-and-siddharth-karamcheti/">a short Q&A I did about my residency.</a>
-                <br/><br/>
+                <ul></ul>
                 Prior to the residency, I was lucky to do two summer internships during college
                 at <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/">Bloomberg Research</a> with
                 wonderful mentors 
@@ -59,7 +59,7 @@
                 and <a href="https://scholar.google.com/citations?user=YsHFgSAAAAAJ&hl=en">David Rosenberg</a>, where we
                 worked on
                 <a href="https://arxiv.org/abs/1808.08256">applying machine learning to software engineering</a>.
-                <br/><br/>
+                <ul></ul>
                 I was an undergraduate at <a href="https://www.brown.edu/">Brown University</a>, 
                 where I concentrated in computer science and literary arts. While at Brown, I did research in NLP
                 & human-robot interaction advised by <a href="http://cs.brown.edu/people/stellex/">Stefanie Tellex</a>
