@@ -28,32 +28,42 @@
                 </div>
             </td>
             <td></td>
-            <td markdown="span">  
-                I am a third-year PhD Student in Computer Science at [Stanford University](https://cs.stanford.edu/) 
-                where I'm grateful to be co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and 
-                [Dorsa Sadigh](https://dorsa.fyi/). I additionally work part-time as a Research Intern at [Hugging
-                 Face 🤗](https://huggingface.co/) working on scaling and multimodal pretraining.
-                I am honored to be supported by the [Open Philanthropy Project AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship#Class).
+            <td>  
+                I am a third-year PhD Student in computer science at 
+                <a href="https://cs.stanford.edu/">Stanford University</a> 
+                where I'm grateful to be co-advised by 
+                <a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> and <a href="https://dorsa.fyi/">Dorsa Sadigh</a>.
+                I am also a part-time research intern at <a href="https://huggingface.co/">Hugging Face 🤗</a> 
+                working on multimodal pretraining and scaling. I am honored to be supported by the 
+                <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced
+                -artificial-intelligence/the-open-phil-ai-fellowship#Class">Open Philanthropy Project AI Fellowship</a>.
                 <br/><br/>
-                I focus on [Human-Robot Interaction](http://iliad.stanford.edu/) and [Natural Language Processing](https://nlp.stanford.edu/), 
-                developing robust models for grounded language understanding and learning from interaction. 
-                <br><br>
-                My
-                research operates at the intersection of <a href="https://crfm.stanford.edu/2021/08/26/mistral.html">large-scale pretraining</a> 
-                (developing better "raw materials" for language and robotics) and 
-                <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot manipulation</a> 
-                (interactive, human-in-the-loop applications). 
+                <b>Research:</b> I focus on <a href="http://iliad.stanford.edu/">human-robot interaction</a> and 
+                <a href="https://nlp.stanford.edu/">natural language processing</a>. My
+                research focuses on two axes:
+                <ul>
+                    <li><a href="https://crfm.stanford.edu/2021/08/26/mistral.html">Large-scale pretraining and representation learning</a> (developing better "raw materials" for robotics & language)</li>
+                    <li>Employing these raw materials for better <a href="https://arxiv.org/abs/2111.03205">language & shared autonomy for robot manipulation</a> (interactive, human-in-the-loop applications)</li>
+                </ul>
+                <b>Timeline:</b> Before Stanford, I was a resident at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> in New York,
+                where I was lucky to work with <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">Rob Fergus</a>, 
+                <a href="https://douwekiela.github.io/">Douwe Kiela</a>,
+                <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>, and
+                <a href="https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en">Arthur Szlam</a> on grounded
+                language understanding. Here's <a href="https://research.fb.com/qa-with-facebook-ai-residents-tatiana-likhomanenko-and-siddharth-karamcheti/">a short Q&A I did about my residency.</a>
                 <br/><br/>
-                Before Stanford, I was a Resident at 
-                [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York, where
-                I was lucky to work with [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php), 
-                [Arthur Szlam](https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en), 
-                [Douwe Kiela](https://douwekiela.github.io/), and 
-                [Jason Weston](http://www.thespermwhale.com/jaseweston/) on grounded language understanding. Here's <a href="https://research.fb.com/qa-with-facebook-ai-residents-tatiana-likhomanenko-and-siddharth-karamcheti/">a short Q & A I did about my work as a resident.</a>
+                Prior to the residency, I was lucky to do two summer internships during college
+                at <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/">Bloomberg Research</a> with
+                wonderful mentors 
+                <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/features/gideon-mann/">Gideon Mann</a>
+                and <a href="https://scholar.google.com/citations?user=YsHFgSAAAAAJ&hl=en">David Rosenberg</a>, where we
+                worked on
+                <a href="https://arxiv.org/abs/1808.08256">applying machine learning to software engineering</a>.
                 <br/><br/>
-                I was an undergraduate at [Brown University](https://www.brown.edu/), where I 
-                concentrated in Computer Science and Literary Arts. While at Brown, I did research in natural language processing and human-robot 
-                interaction advised by [Stefanie Tellex](http://cs.brown.edu/people/stellex/) and [Eugene Charniak](http://cs.brown.edu/people/echarnia/).
+                I was an undergraduate at <a href="https://www.brown.edu/">Brown University</a>, 
+                where I concentrated in computer science and literary arts. While at Brown, I did research in NLP
+                & human-robot interaction advised by <a href="http://cs.brown.edu/people/stellex/">Stefanie Tellex</a>
+                and <a href="http://cs.brown.edu/people/echarnia/">Eugene Charniak</a>. 
             </td>
         </tr>
 </tbody>
