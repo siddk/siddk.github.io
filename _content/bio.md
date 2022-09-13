@@ -29,7 +29,7 @@
             </td>
             <td></td>
             <td>  
-                I am a third-year PhD Student in computer science at 
+                I am a PhD Student in computer science at 
                 <a href="https://cs.stanford.edu/">Stanford University</a> 
                 where I'm grateful to be co-advised by 
                 <a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> and <a href="https://dorsa.fyi/">Dorsa Sadigh</a>.

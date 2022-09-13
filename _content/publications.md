@@ -13,9 +13,15 @@ Sasha Rush and **Siddharth Karamcheti** – January, 2022.
 
 ### 2022
 
+[What Makes Representation Learning from Videos Hard for Control?](/assets/papers/srl22.pdf)  
+Tony Z. Zhao, **Siddharth Karamcheti**, Thomas Kollar, Chelsea Finn, Percy Liang.  
+[*2nd Workshop on Scaling Robot Learning @ RSS 2022*](https://sites.google.com/view/rss22-srl/home), June 2022.  
+<span style="color:#F38000"><b>Best Paper Finalist</b></span>  
+[[pdf]](/assets/papers/srl22.pdf)
+
 [Shared Autonomy for Robotic Manipulation with Language Corrections](/assets/papers/nlsupervision22.pdf)  
 __Siddharth Karamcheti__\*, Raj Palleti\*, Yuchen Cui, Percy Liang, Dorsa Sadigh.  
-[*Workshop on Learning with Natural Language Supervision (NL-Supervision) @ ACL 2022*](https://sites.google.com/princeton.edu/nl-supervision), May 2022.  
+[*Workshop on Learning with Natural Language Supervision (NL-Supervision) @ ACL 2022*](https://sites.google.com/princeton.edu/nl-supervision), May 2022.      
 [[pdf]](/assets/papers/nlsupervision22.pdf)  
 
 ### 2021
