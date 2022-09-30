@@ -1,5 +1,9 @@
 ## News
 
+- **[October 2022]:** Our paper ["Eliciting Compatible Demonstrations for Multi-Human Imitation Learning"](https://openreview.net/forum?id=iRabxvK3j0) with Kanishk Gandhi, Madeline Liao,
+and Dorsa Sadigh was accepted to the [Conference on Robot Learning (CoRL) 2022](https://corl2022.org/). Really excited about what this work means scalable data collection for robotics; come chat with us
+in New Zealand!
+
 - **[September 2022]:** We've recently seen an explosion of pretrained "foundation models" applied to a series
 of tasks across NLP and Vision - but how can they help improve "decision-making" (control, planning, interaction & collaboration)? 
 Check out our workshop [Foundation Models for Decision Making](https://sites.google.com/view/fmdm-neurips/) at [NeurIPS 2022](https://nips.cc/) -- deadline is **October 3rd**!
@@ -15,8 +19,3 @@ at [Robotics: Science and Systems 2022 in NYC](https://roboticsconference.org/).
 at the [Conference on Robot Learning (CoRL) 2021](https://www.robot-learning.org/) in London. This is my first language
  & shared autonomy paper, jointly authored with [Megha Srivastava](https://web.stanford.edu/~meghas/), with my advisors
  [Percy Liang](https://cs.stanford.edu/~pliang/) and [Dorsa Sadigh](https://dorsa.fyi/).
-
-- **[October 2021]:** Thrilled to announce that I've joined [Hugging Face 🤗](https://huggingface.co/) as a part-time
-research intern, while working towards my PhD. I'm working with [Victor Sanh](https://scholar.google.fr/citations?user=6STg_7IAAAAJ&hl=fr), 
-[Sasha Rush](http://rush-nlp.com/), [Douwe Kiela](https://douwekiela.github.io/), and many others on multimodality and
-scaling. 

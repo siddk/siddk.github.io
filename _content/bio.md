@@ -33,8 +33,8 @@
                 <a href="https://cs.stanford.edu/">Stanford University</a> 
                 where I'm grateful to be co-advised by 
                 <a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> and <a href="https://dorsa.fyi/">Dorsa Sadigh</a>.
-                I am also a part-time research intern at <a href="https://huggingface.co/">Hugging Face 🤗</a> 
-                working on multimodal pretraining and scaling. I am honored to be supported by the 
+                <br/>
+                I am honored to be supported by the 
                 <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced
                 -artificial-intelligence/the-open-phil-ai-fellowship#Class">Open Philanthropy Project AI Fellowship</a>.
                 <ul></ul>
@@ -45,7 +45,10 @@
                     <li><a href="https://crfm.stanford.edu/2021/08/26/mistral.html">Large-scale pretraining and representation learning</a> (developing better "raw materials" for robotics & language)</li>
                     <li><a href="https://arxiv.org/abs/2111.03205">Better language & shared autonomy for robotics</a> (interactive, human applications) by employing these materials!</li>
                 </ul>
-                <b>Timeline:</b> Before Stanford, I was a resident at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> in New York,
+                <b>Timeline:</b> I recently completed a year-long part-time research internship at 
+                <a href="https://huggingface.co/">Hugging Face 🤗</a> working on multimodal pretraining and scaling <a href="https://huggingface.co/blog/ethical-charter-multimodal">with an incredible team of collaborators</a>. 
+                <ul></ul>
+                Before Stanford, I was a resident at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> in New York,
                 where I was lucky to work with <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">Rob Fergus</a>, 
                 <a href="https://douwekiela.github.io/">Douwe Kiela</a>,
                 <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>, and
