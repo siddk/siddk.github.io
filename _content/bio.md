@@ -33,7 +33,6 @@
                 <a href="https://cs.stanford.edu/">Stanford University</a> 
                 where I'm grateful to be co-advised by 
                 <a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> and <a href="https://dorsa.fyi/">Dorsa Sadigh</a>.
-                <br/>
                 I am honored to be supported by the 
                 <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced
                 -artificial-intelligence/the-open-phil-ai-fellowship#Class">Open Philanthropy Project AI Fellowship</a>.
