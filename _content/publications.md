@@ -13,10 +13,10 @@ Sasha Rush and **Siddharth Karamcheti** – January, 2022.
 
 ### 2022
 
-[Eliciting Compatible Demonstrations for Multi-Human Imitation Learning](https://openreview.net/forum?id=iRabxvK3j0)  
+[Eliciting Compatible Demonstrations for Multi-Human Imitation Learning](https://arxiv.org/abs/2210.08073)  
 Kanishk Gandhi, **Siddharth Karamcheti**, Madeline Liao, Dorsa Sadigh.  
 [*Conference on Robot Learning (CoRL)*](https://corl2022.org/), December 2022.  
-[pdf forthcoming]  
+[[pdf]](/assets/papers/corl22.pdf) [[homepage]](https://sites.google.com/view/eliciting-demos-corl22/home)  
 
 [What Makes Representation Learning from Videos Hard for Control?](/assets/papers/srl22.pdf)  
 Tony Z. Zhao, **Siddharth Karamcheti**, Thomas Kollar, Chelsea Finn, Percy Liang.  
