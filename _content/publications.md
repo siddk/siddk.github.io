@@ -1,15 +1,11 @@
 ## Publications
 
-### Blog Posts
-[The Annotated S4 – Efficiently Modeling Long Sequences with Structured State Spaces](https://srush.github.io/annotated-s4/)  
-Sasha Rush and **Siddharth Karamcheti** – January, 2022.  
-[[ICLR blog track]](https://iclr-blog-track.github.io/2022/03/25/annotated-s4/) [[code]](https://github.com/srush/annotated-s4/) [[original paper]](https://arxiv.org/abs/2111.00396) 
+### 2023
 
-[Mistral – A Journey towards Reproducible Language Model Training](https://crfm.stanford.edu/2021/08/26/mistral.html)    
-**Siddharth Karamcheti*** and Laurel Orr* – August, 2021.  
-*Team:* Jason Bolton, Tianyi Zhang, Karan Goel, Avanika Narayan, Rishi Bommasani, Deepak Narayanan  
-*Advisors:* Tatsunori Hashimoto, Dan Jurafsky, Christopher D. Manning, Christopher Potts, Christopher Ré, Percy Liang  
-[[code]](https://github.com/stanford-crfm/mistral) [[checkpoints]](https://huggingface.co/stanford-crfm) [[talk]](https://youtu.be/du1YiytHwXs?t=3294)
+["No, to the Right" – Online Language Corrections for Robotic Manipulation via Shared Autonomy](https://arxiv.org/abs/2301.02555)  
+Yuchen Cui\*, __Siddharth Karamcheti__\*, Raj Palleti, Nidhya Shivakumar, Percy Liang, Dorsa Sadigh.  
+[*ACM/IEEE International Conference on Human Robot Interaction (HRI)*](https://humanrobotinteraction.org/2023/), March 2023.  
+[[pdf]](/assets/papers/hri23.pdf) [[homepage]](https://sites.google.com/view/hri-lilac) [[code]](https://github.com/Stanford-ILIAD/lilac)
 
 ### 2022
 
@@ -128,3 +124,16 @@ Christopher Grimm, Dilip Arumugam, **Siddharth Karamcheti**, David Abel, Lawson 
 Dilip Arumugam\*, **Siddharth Karamcheti**\*, Nakul Gopalan, Lawson L.S. Wong, and Stefanie Tellex  
 [*Robotics: Science and Systems (RSS)*](http://www.roboticsproceedings.org/rss13/index.html), June 2017  
 [[pdf]](/assets/papers/rss17.pdf)
+
+---
+
+### Blog Posts
+[The Annotated S4 – Efficiently Modeling Long Sequences with Structured State Spaces](https://srush.github.io/annotated-s4/)  
+Sasha Rush and **Siddharth Karamcheti** – January, 2022.  
+[[ICLR blog track]](https://iclr-blog-track.github.io/2022/03/25/annotated-s4/) [[code]](https://github.com/srush/annotated-s4/) [[original paper]](https://arxiv.org/abs/2111.00396) 
+
+[Mistral – A Journey towards Reproducible Language Model Training](https://crfm.stanford.edu/2021/08/26/mistral.html)    
+**Siddharth Karamcheti*** and Laurel Orr* – August, 2021.  
+*Team:* Jason Bolton, Tianyi Zhang, Karan Goel, Avanika Narayan, Rishi Bommasani, Deepak Narayanan  
+*Advisors:* Tatsunori Hashimoto, Dan Jurafsky, Christopher D. Manning, Christopher Potts, Christopher Ré, Percy Liang  
+[[code]](https://github.com/stanford-crfm/mistral) [[checkpoints]](https://huggingface.co/stanford-crfm) [[talk]](https://youtu.be/du1YiytHwXs?t=3294)
