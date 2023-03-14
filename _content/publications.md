@@ -2,6 +2,11 @@
 
 ### 2023
 
+[Language-Driven Representation Learning for Robotics](https://arxiv.org/abs/2302.12766)  
+**Siddharth Karamcheti**, Suraj Nair, Annie S. Chen, Thomas Kollar, Chelsea Finn, Dorsa Sadigh, Percy Liang.  
+*Preprint*, February 2023.  
+[[pdf]](/assets/papers/voltron23.pdf) [[code - models]](https://github.com/siddk/voltron-robotics) [[code - evaluation]](https://github.com/siddk/voltron-evaluation) [[project page]](https://sites.google.com/view/voltron-robotics/home)  
+
 ["No, to the Right" – Online Language Corrections for Robotic Manipulation via Shared Autonomy](https://arxiv.org/abs/2301.02555)  
 Yuchen Cui\*, __Siddharth Karamcheti__\*, Raj Palleti, Nidhya Shivakumar, Percy Liang, Dorsa Sadigh.  
 [*ACM/IEEE International Conference on Human Robot Interaction (HRI)*](https://humanrobotinteraction.org/2023/), March 2023.  

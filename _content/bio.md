@@ -37,15 +37,15 @@
                 <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced
                 -artificial-intelligence/the-open-phil-ai-fellowship#Class">Open Philanthropy Project AI Fellowship</a>.
                 <ul></ul>
-                <b>Research:</b> I focus on <a href="http://iliad.stanford.edu/">human-robot interaction</a> and 
+                <b>Research:</b> I work on <a href="http://iliad.stanford.edu/">robot learning</a> and 
                 <a href="https://nlp.stanford.edu/">natural language processing</a>. My
                 research focuses on two axes:
                 <ul>
-                    <li><a href="https://crfm.stanford.edu/2021/08/26/mistral.html">Large-scale pretraining and representation learning</a> (developing better "raw materials" for robotics & language)</li>
-                    <li><a href="https://arxiv.org/abs/2111.03205">Better language & shared autonomy for robotics</a> (interactive, human applications) by employing these materials!</li>
+                    <li><a href="https://arxiv.org/abs/2302.12766">Large-scale pretraining and representation learning</a> (developing better "raw materials" for robotics & language)</li>
+                    <li><a href="https://arxiv.org/abs/2111.03205">Language & interaction for human-robot collaboration</a> (e.g., via shared autonomy, or online language corrections)</li>
                 </ul>
                 <b>Timeline:</b> I recently completed a year-long part-time research internship at 
-                <a href="https://huggingface.co/">Hugging Face 🤗</a> working on multimodal pretraining and scaling <a href="https://huggingface.co/blog/ethical-charter-multimodal">with an incredible team of collaborators</a>. 
+                <a href="https://huggingface.co/">Hugging Face 🤗</a> working on multimodal pretraining <a href="https://huggingface.co/blog/ethical-charter-multimodal">with an incredible team of collaborators</a>. 
                 <ul></ul>
                 Before Stanford, I was a resident at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> in New York,
                 where I was lucky to work with <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">Rob Fergus</a>, 
@@ -53,17 +53,14 @@
                 <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>, and
                 <a href="https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en">Arthur Szlam</a> on grounded
                 language understanding. Here's <a href="https://research.fb.com/qa-with-facebook-ai-residents-tatiana-likhomanenko-and-siddharth-karamcheti/">a short Q&A I did about my residency.</a>
-                <ul></ul>
-                Prior to the residency, I was lucky to do two summer internships during college
+                Prior to that, I was lucky to do two summer internships
                 at <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/">Bloomberg Research</a> with
                 wonderful mentors 
                 <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/features/gideon-mann/">Gideon Mann</a>
-                and <a href="https://scholar.google.com/citations?user=YsHFgSAAAAAJ&hl=en">David Rosenberg</a>, where we
-                worked on
-                <a href="https://arxiv.org/abs/1808.08256">applying machine learning to software engineering</a>.
+                and <a href="https://scholar.google.com/citations?user=YsHFgSAAAAAJ&hl=en">David Rosenberg</a>.
                 <ul></ul>
-                I was an undergraduate at <a href="https://www.brown.edu/">Brown University</a>, 
-                where I concentrated in computer science and literary arts. While at Brown, I did research in NLP
+                I completed my undergraduate degrees in computer science and literary arts at
+                <a href="https://www.brown.edu/">Brown University</a>. While there, I did research in NLP
                 & human-robot interaction advised by <a href="http://cs.brown.edu/people/stellex/">Stefanie Tellex</a>
                 and <a href="http://cs.brown.edu/people/echarnia/">Eugene Charniak</a>. 
             </td>
